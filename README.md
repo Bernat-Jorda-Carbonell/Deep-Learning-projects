@@ -8,3 +8,8 @@ Using the supercomputer Snellius and a template, I implemented and trained my ow
 ## MLPs and Backpropagation
 Project to learn basics Multi Layer Perceptron, both with basic NumPy and with PyTorch
 
+## CNNs
+Two small projects with Convolution Neural Netwroks. In the first one
+ 
+## Variational_Auto_Encoder
+	
